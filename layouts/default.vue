@@ -9,6 +9,7 @@
                 <nuxt-link to="/login">login</nuxt-link>
             </div>
         </h4>
+
         <nuxt />
 
         <!-- <div v-if="$auth.user">

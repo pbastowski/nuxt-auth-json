@@ -10,3 +10,9 @@ export default {
     auth: false
 }
 </script>
+
+<style scoped>
+h1 {
+    color: red;
+}
+</style>
